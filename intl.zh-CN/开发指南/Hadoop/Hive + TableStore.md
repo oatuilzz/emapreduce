@@ -1,4 +1,4 @@
-# Hive + TableStore {#concept_sqb_xrn_hfb .concept}
+   # Hive + TableStore {#concept_sqb_xrn_hfb .concept}
 
 本章节介绍如何在 Hive 中处理 TableStore 中的数据。
 
